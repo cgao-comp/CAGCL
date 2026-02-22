@@ -1,5 +1,7 @@
 # CAGCL: A Community-Aware Graph Contrastive Learning Model for Social Bot Detection
 
+Kaihang Wei, Min Teng, Haotong Du, Songxin Wang, Jinhe Zhao, Chao Gao, A community-aware graph contrastive learning model for social bot detection, Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM25), 2025, 3282-3291
+
 ## Abstract
 Malicious social bot detection is vital for social network security. While graph neural networks (GNNs) based methods have improved performance by modeling structural information, they often overlook latent community structures, resulting in homogeneous node representations. 
 Leveraging community structures, which capture discriminative group-level patterns, is therefore essential for more robust detection.
