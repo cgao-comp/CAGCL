@@ -89,15 +89,16 @@ These scripts will:
 - Load pretrained models and community label files
 - Output evaluation metrics on the test set (e.g., Accuracy, F1-score, Recall)
 
-## Citation
+# Reference
 
-If you use CAGCL in your research, please cite our paper:
+If you make advantage of CAGCL in your research, please cite the following in your manuscript:
 
-```bibtex
-@article{cagcl2025,
-  title={CAGCL: Community-Aware Graph Contrastive Learning for Social Bot Detection},
+```
+@inproceedings{wei2025cagcl,
+  title={CAGCL: A Community-Aware Graph Contrastive Learning Model for Social Bot Detection},
   author={Wei, Kaihang and Teng, Min and Du, Haotong and Wang, Songxin and Zhao, Jinhe and Gao, Chao},
-  journal={Proceedings of the 34nd ACM International Conference on Information and Knowledge Management},
+  booktitle={Proceedings of the 34th ACM International Conference on Information and Knowledge Management},
+  pages={3282--3291},
   year={2025}
 }
 
